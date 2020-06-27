@@ -4,11 +4,11 @@
 #author : sci_anto
 #github : https://github.com/Scianto/Ytube 
 
-printf "\e[36m ██  ██ ████████  ██      ██  ██████   ██████\e[0m\n"
-printf "\e[36m ██  ██      ██       ██      ██  ██    ██   ██\e[0m\n"
-printf "\e[36m  ████       ██       ██      ██  ██████    ████\e[0m\n"
-printf "\e[36m    ██        ██       ██      ██  ██     ██   ██\e[0m\n"
-printf "\e[36m    ██        ██        ██████    ██████    ██████\e[0m\n" 
+printf "\e[36m ██  ██ ████████ ██    ██ ██████  ███████  \e[0m\n"
+printf "\e[36m ██  ██    ██    ██    ██ ██   ██ ██       \e[0m\n"    
+printf "\e[36m  ████     ██    ██    ██ ██████  █████    \e[0m\n"
+printf "\e[36m   ██      ██    ██    ██ ██   ██ ██       \e[0m\n"
+printf "\e[36m   ██      ██     ██████  ██████  ███████  \e[0m\n"
 
 printf "\e[32m Created by Sci_anto \e[0m\n" 
 
